@@ -1,0 +1,28 @@
+#other-title {
+    
+    width: 100%;
+
+}
+
+
+.disable {
+color: gray;
+}
+
+
+#act {
+color: red;
+margin-top: -14px;
+    
+}
+
+select {
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 0px;
+    font-family: "roboto", sans-serif;
+    color: #22627e;
+    
+}
